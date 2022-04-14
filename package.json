@@ -53,7 +53,7 @@
   "devDependencies": {
     "codecov": "^3.1.0",
     "nyc": "^13.1.0",
-    "clang-format": "1.2.4",
+    "clang-format": "1.7.0",
     "tape": "^4.4.0"
   },
   "nyc": {
